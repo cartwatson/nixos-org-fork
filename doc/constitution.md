@@ -143,13 +143,12 @@ The requirements to become a candidate for the SC elections are:
 - To provide a public position statement on why one should be elected
 - To be publicly endorsed by at least 3 other people eligible to vote
   - How endorsements are collected will be specified by the EC
-  - Among the candidate and their endorsers, there must be at least 4 individuals where no two have the same conflict of interest (e.g. employees of the same company or otherwise the same payer for Nix work), as decided by the EC.
+  - Among the candidate and their endorsers, there must be at least 4 individuals where no two have the same [conflict of interest](./conflict-of-interest.md), as decided by the EC.
   - One can endorse a person who has not yet agreed to be a candidate, which also serves as nominating them (subject to acceptance of nomination)
   - Eligible voters may endorse multiple nominees
 - To have been not a member of the SC for at least two complete years of the two immediately preceding terms
 - To not be a member of the EC
-- To not have any conflicts of interest that would [prevent one from being appointed](#conflict-of-interest-coi-balance) to the SC, and publicly disclose all potential conflicts of interest
-  - This includes conflicts of interest to arise during the term based on already finalised agreements
+- To not have any conflicts of interest that would [prevent one from being appointed](./conflict-of-interest.md#steering-committee-candidates) to the SC, and publicly disclose all potential conflicts of interest
 
 After the nomination deadline, the SC can prevent a nominee from becoming a candidate by supermajority (among the currently serving members of the SC) in case their public image or conduct would not be compatible with the position in the SC.
 
@@ -165,12 +164,6 @@ In any election where seats with different end-of-term dates are available, winn
 - The EC for the first election will be the members of the [Nix Constitutional Assembly (NCA)](https://github.com/nixos/nix-constitutional-assembly?tab=readme-ov-file#members), which are thus ineligible to be elected for the first SC
 - All nominees become candidates for the first election, because there's no existing SC that would decide over disqualifying candidates.
 - And to help the first elected SC establish itself, members of the NCA are integrated into the SC as non-voting members for 6 months after the appointment. The NCA ceases to exist at the moment of SC appointment.
-
-#### Conflict of Interest (CoI) Balance
-
-To encourage diversity, there is a soft limit of one individual with the same CoI (e.g. employees of the same company or otherwise the same payer for Nix work) immediately after election results coming into force. If the results of an election would result in multiple individuals with the same CoI being elected, the lowest vote getters with any particular CoI will be removed until the condition is satisfied. Note that everybody's vote still has the same impact, because each voter is asked to evaluate all candidates. In case of doubts on what constitutes the same CoI (subsidiaries, grants, part-time work, etc.), the election committee decides. The candidates must disclose already-agreed-upon changes of affiliation that are to happen during the term, and at the time of election these are also considered as relevant CoIs. After all candidates are known and before the voting period starts, the EC must publicly commit to the list of candidate pairs considered to have the same CoI.
-
-Furthermore, there is a hard maximum of two members with the same CoI at any time. If this condition is suspected to be violated because of job changes, acquisitions, or other events, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation. In case it is deemed a violation, sufficient members of the committee must resign until the max representation limit is achieved. If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a new special election shall be held.
 
 #### Special Elections
 
