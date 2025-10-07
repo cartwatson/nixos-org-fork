@@ -9,7 +9,8 @@
     "ref_name": {
       "exclude": [],
       "include": [
-        "~DEFAULT_BRANCH"
+        "~DEFAULT_BRANCH",
+        "refs/heads/release-25.05"
       ]
     }
   },
@@ -22,8 +23,8 @@
         "min_entries_to_merge": 1,
         "max_entries_to_merge": 5,
         "min_entries_to_merge_wait_minutes": 5,
-        "grouping_strategy": "ALLGREEN",
-        "check_response_timeout_minutes": 60
+        "grouping_strategy": "HEADGREEN",
+        "check_response_timeout_minutes": 20
       }
     }
   ],
