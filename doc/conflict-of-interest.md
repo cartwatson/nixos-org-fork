@@ -6,7 +6,13 @@ Various individuals of the Nix community have an affirmative obligation to act a
 
 Conflict of Interest is any duty a covered individual has that has an interest in Nix or Nix adjacent work.
 
-Examples of CoI may include: full or part time work, subsidiaries, grants, gifts, sponorship, or otherwise the same payer of Nix related work. This list is non-exhaustive.
+A non-exhaustive list of examples of CoIs:
+- full or part time work
+- subsidiaries
+- grants
+- gifts
+- sponorship
+- a payer of Nix related work
 
 ## Covered Individuals
 
@@ -33,17 +39,15 @@ Disclosure of Conflicts of Interest should happen in the following times and pla
 | Individual                                                   | Where disclosure must happen                                                  | Timeline for disclosure                            |
 |--------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
 | Election for Covered Individual                              | In canditate response form/or other appropriate place as determined by the EC | When candidate responses are released              |
-| Endorsing in an Election for Covered Individual              | Appropriate place as determined by the EC                                     | When candidate responses are released              |
-| Change in CoI for a Covered Individual                       | On the [relevant team page](https://nixos.org/community/#governance-teams)    | Upon earliest knowledge of the affected individual |
+| Endorsing in an election for Covered Individual              | Appropriate place as determined by the EC                                     | Upon endorsement, or as determined by the EC       |
+| Change in CoI for an elected Covered Individual              | On the [relevant team page](https://nixos.org/community/#governance-teams)    | Upon earliest knowledge of the affected individual |
 | Nix Governance Team Member (who is not a Covered Individual) | On the [relevant team page](https://nixos.org/community/#governance-teams)    | If desired                                         |
 
 ## Handling Mutiple Members of the SC Holding the Same CoI
 
 ### Active Steering Committee Members
 
-There is a limit of two members with the same CoI at any time. If this condition is suspected to be violated because of job changes, acquisitions, or other events, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation. In the case it is deemed a violation, sufficient members of the committee must resign until the max representation limit is achieved. If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a special election shall be held.
-
-An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-coi-balance) condition is suspected to be violated. In that case, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
+There is a limit of two members with the same CoI at any time. If this condition is suspected to be violated, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation. In the case it is deemed a violation, sufficient members of the committee must resign until the max representation limit is achieved. If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a special election shall be held.
 
 ### Steering Committee Candidates
 
